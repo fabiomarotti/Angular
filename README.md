@@ -4,31 +4,31 @@ Repositório com estudos realizados sobre o framework Angular.
 * https://angular.io/
 * https://cli.angular.io/
 
-* Requesitos: Node.js -> npm (Node Packege Managere)
+* Requesitos: Node.js -> npm (Node Package Manager)
 
-$ node -v
+`$ node -v` versão do Node.js 
 
-$ npm -v
+`$ npm -v` versão do Gerenciados de Pacotes
 
-$ ng -v
+`$ ng -v`versão do Angular
 
-$ ng help
+`$ ng help` Ajuda do Angular
 
 * Instalar Angular CLI :: Command-Lin Interface
 
-`$ npm install -g @angular/cli`  // -g: Global
+`$ npm install -g @angular/cli`  (-g: Instalação de modo Global)
 
 * Criar um workspace "pasta do projeto" :: https://angular.io/guide/strict-mode
 
-`$ ng new nome_projeto` // gera um skeleton (esqueto de pastas/conteudo) -> Angular router -> CSS
+`$ ng new nome_projeto`  gera um skeleton (esqueto de pastas/conteudo) -> Angular router -> CSS
 
-$ cd nome_projeto     // acessar para executar proximos comandos
+`$ cd nome_projeto`     // acessar para executar proximos comandos
 
 * Abrir/iniciar o servidor :: http://localhost:4200/
 
 `$ ng serve --open`   // https://angular.io/cli/serve
 
-$ ng serve -o
+`$ ng serve -o` comando abreviado
 
 ## Estrutura das pastas
 * `/e2e` : fazer testes unitários
