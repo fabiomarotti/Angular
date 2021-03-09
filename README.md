@@ -1,8 +1,8 @@
 # Angular
 Repositório com os estudos realizados sobre o framework Angular.
 
-* https://angular.io/
-* https://cli.angular.io/
+- https://angular.io/
+- https://cli.angular.io/
 
 > Requesitos: Node.js -> npm (Node Package Manager)
 
@@ -31,34 +31,38 @@ Repositório com os estudos realizados sobre o framework Angular.
 `$ ng serve -o` comando abreviado
 
 ## Estrutura das pastas
-* `/e2e` : fazer testes unitários
-* `/node_modules` : todos os pacotes necessários para tralhar ou instalar posteriormente <br>
+- `/` : raiz (nome_projeto)
+- `/e2e` : fazer testes unitários
+- `/node_modules` : todos os pacotes necessários para tralhar ou instalar posteriormente <br>
 (pasta a ser contida no arquivo: **gitignore** -> pasta muito grande)
-* `/src` : Pasta Principal
+- `/src` : Pasta Principal
     **main.ts**
     **polyfills.ts** : traduzida no transpilar
     **style.css** : reflete na aplicação toda
     **test.ts** : parametros de teste (arquivos de teste)
-* `/src/app` : todos os aquivos/componentes da aplicação
+- `/src/app` : todos os aquivos/componentes da aplicação
     * **app-routing.module.ts** : definir as rotas dos componentes
     * **app.module.ts** : registrar todos os componentes
     * **app.component.ts** 
     * _.html
     * _.css
     * _.spec.ts
-* `src/assets` : todos os arquivos externos (img, css, ..)
-* `src/environments` : gerando **build**, variaveis de ambiente, app em produção,..
-* `angular.jason` : todas as configurações do angular
+- `src/assets` : todos os arquivos externos (img, css, ..)
+- `src/environments` : gerando **build**, variaveis de ambiente, app em produção,..
+- **angular.jason** : todas as configurações do angular
+- **karma.cong.js** : configurar ara teste unitário
+- **package.jason** : lista todos os pacotes e versões contidos na aplicação.
+- **tsconfig.json** : qual a versão do ECMAScript.
 
 Um componente X é composto por três arquivos:
-* x.html
-* x.css
-* x.spec.ts
+- **x.html**
+- **x.css**
+- **x.spec.ts**
  
 O componente principal chama: `app.component`, composto por:
-* app.component.html
-* app.component.css
-* app.component.spec.ts
+- **app.component.html**
+- **app.component.css**
+- **app.component.spec.ts**
 
 
 # Sintaxe
