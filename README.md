@@ -44,17 +44,20 @@ $ ng serve -o
 * /src/app : todos os aquivos/componentes da aplicação
     * app-routing.module.ts
     * app.module.ts
+    * app.component.ts
     * _.html
     * _.css
     * _.spec.ts
 
 Um componente X é composto por três arquivos:
- x.html
- x.css
- x.spec.ts
+* x.html
+* x.css
+* x.spec.ts
  
 O componente principal chama: app.component, composto por:
- app.component.html
- app.component.css
- app.component.spec.ts
+* app.component.html
+* app.component.css
+* app.component.spec.ts
+
+
 # Sintaxe
