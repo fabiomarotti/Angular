@@ -18,7 +18,7 @@ Repositório com estudos realizados sobre o framework Angular.
 
 `$ npm install -g @angular/cli`  (-g: Instalação de modo Global)
 
-## Criar um workspace "pasta do projeto" :: https://angular.io/guide/strict-mode
+## Criar um workspace "pasta do projeto" :: (+ info)[https://angular.io/guide/strict-mode]
 
 `$ ng new nome_projeto`  gera um skeleton (esqueto de pastas/conteudo) -> Angular router -> CSS
 
