@@ -46,6 +46,9 @@ Repositório com os estudos realizados sobre o framework Angular.
     * _.html
     * _.css
     * _.spec.ts
+* `/assets` : todos os arquivos externos (img, css, ..)
+* `/environments` : gerando **build**, variaveis de ambiente, app em produção,..
+* 
 
 Um componente X é composto por três arquivos:
 * x.html
