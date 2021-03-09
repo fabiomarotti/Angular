@@ -1,8 +1,10 @@
 # Angular
 Repositório com os estudos realizados sobre o framework Angular.
 
+- https://www.youtube.com/c/EscolaFrontend/playlists
 - https://angular.io/
 - https://cli.angular.io/
+- Angular Schematics (plugin para VS code)
 
 > Requesitos: Node.js -> npm (Node Package Manager)
 
@@ -44,9 +46,9 @@ Repositório com os estudos realizados sobre o framework Angular.
     * **app-routing.module.ts** : definir as rotas dos componentes
     * **app.module.ts** : registrar todos os componentes
     * **app.component.ts** 
-    * _.html
-    * _.css
-    * _.spec.ts
+    * app.component.html
+    * app.component.css
+    * app.component.spec.ts
 - `src/assets` : todos os arquivos externos (img, css, ..)
 - `src/environments` : gerando **build**, variaveis de ambiente, app em produção,..
 - **angular.json** : todas as configurações do angular
@@ -66,3 +68,17 @@ O componente principal chama: `app.component`, composto por:
 
 
 # Sintaxe
+
+# Criando um Commponent via CLI
+* 
+## Generate [+ detalhes](https://angular.io/cli/generate)
+
+* Component
+* Service
+* Module
+* _outros_
+
+`$ ng generate nome_componente`
+`$ ng g nome_componente` abreviado
+
+
