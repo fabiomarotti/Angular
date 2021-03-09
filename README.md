@@ -38,9 +38,9 @@ $ ng serve -o
 * /node_modules : todos pacotes necessarios para tralhar/ instalar pacotes posteriormente (pasta contida no gitignore -> pasta muito grande)
 * /src : Pasta Principal
 * * /app : todos os aquivos/componentes da aplicação
-**  app-routing.module.ts
-* * * app.module.ts
-* * * *
+  * app-routing.module.ts
+  * app.module.ts
+* * * * oi
 * * * * _.html
 * * * * _.css
 * * * * _.spec.ts
