@@ -14,7 +14,7 @@ Repositório com estudos realizados sobre o framework Angular.
 
 `$ ng help` Ajuda do Angular
 
-### Instalar Angular CLI :: Command-Lin Interface
+### * Instalar Angular CLI :: Command-Lin Interface
 
 `$ npm install -g @angular/cli`  (-g: Instalação de modo Global)
 
