@@ -40,10 +40,9 @@ $ ng serve -o
   * /app : todos os aquivos/componentes da aplicação
     * app-routing.module.ts
     * app.module.ts
-
-* * * * _.html
-* * * * _.css
-* * * * _.spec.ts
+      _.html
+      _.css
+      _.spec.ts
 * * main.ts
 * * polyfills.ts : traduzida no transpilar
 * * style.css : reflete na aplicação toda
