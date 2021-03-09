@@ -32,16 +32,17 @@ Repositório com estudos realizados sobre o framework Angular.
 
 ## Estrutura das pastas
 * `/e2e` : fazer testes unitários
-* `/node_modules` : todos pacotes necessarios para tralhar/ instalar pacotes posteriormente (pasta contida no gitignore -> pasta muito grande)
+* `/node_modules` : todos os pacotes necessários para tralhar ou instalar posteriormente <br>
+(pasta a ser contida no arquivo: **gitignore** -> pasta muito grande)
 * `/src` : Pasta Principal
-* * main.ts
-* * polyfills.ts : traduzida no transpilar
-* * style.css : reflete na aplicação toda
-* * test.ts : parametros de teste (arquivos de teste)
+* * **main.ts**
+* * **polyfills.ts** : traduzida no transpilar
+* * **style.css** : reflete na aplicação toda
+* * **test.ts** : parametros de teste (arquivos de teste)
 * `/src/app` : todos os aquivos/componentes da aplicação
-    * app-routing.module.ts
-    * app.module.ts
-    * app.component.ts
+    * **app-routing.module.ts**
+    * **app.module.ts**
+    * **app.component.ts**
     * _.html
     * _.css
     * _.spec.ts
