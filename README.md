@@ -44,11 +44,11 @@ Repositório com os estudos realizados sobre o framework Angular.
     **test.ts** : parametros de teste (arquivos de teste)
 - `/src/app` : todos os aquivos/componentes da aplicação
     - **app-routing.module.ts** : definir as rotas dos componentes
-    - **app.module.ts** : registrar todos os componentes
-    - ***app.component.ts*** Classe principal do componente
-    - ***app.component.html ***
-    - ***app.component.css***
-    - ***app.component.spec.ts***
+    - **app.module.ts** : registro de todos os componentes
+    - ***app.component.ts*** Componente Principal (Classe)
+    - ***app.component.html*** Componente Principal (HTML)
+    - ***app.component.css*** Componente Principal (CSS)
+    - ***app.component.spec.ts*** Componente Principal (seila XD)
 - `src/assets` : todos os arquivos externos (img, css, ..)
 - `src/environments` : gerando **build**, variaveis de ambiente, app em produção,..
 - **angular.json** : todas as configurações do angular
@@ -79,6 +79,7 @@ O componente principal chama: `app.component`, composto por:
 * _outros_
 
 `$ ng generate nome_componente`
+
 `$ ng g nome_componente` abreviado
 
 
