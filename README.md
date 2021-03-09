@@ -26,7 +26,7 @@ Repositório com estudos realizados sobre o framework Angular.
 
 ## Abrir/iniciar o servidor :: http://localhost:4200/
 
-`$ ng serve --open`  ( https://angular.io/cli/serve )
+`$ ng serve --open`  [+ detalhes](https://angular.io/cli/serve )
 
 `$ ng serve -o` comando abreviado
 
