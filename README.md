@@ -37,10 +37,10 @@ $ ng serve -o
 * /e2e : fazer testes unitários
 * /node_modules : todos pacotes necessarios para tralhar/ instalar pacotes posteriormente (pasta contida no gitignore -> pasta muito grande)
 * /src : Pasta Principal
-* * /app : todos os aquivos/componentes da aplicação
-  * app-routing.module.ts
-  * app.module.ts
-* * * * oi
+  * /app : todos os aquivos/componentes da aplicação
+   * app-routing.module.ts
+   * app.module.ts
+
 * * * * _.html
 * * * * _.css
 * * * * _.spec.ts
