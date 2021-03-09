@@ -40,9 +40,9 @@ Repositório com os estudos realizados sobre o framework Angular.
     **style.css** : reflete na aplicação toda
     **test.ts** : parametros de teste (arquivos de teste)
 * `/src/app` : todos os aquivos/componentes da aplicação
-    * **app-routing.module.ts**
-    * **app.module.ts**
-    * **app.component.ts**
+    * **app-routing.module.ts** : definir as rotas dos componentes
+    * **app.module.ts** : registrar todos os componentes
+    * **app.component.ts** 
     * _.html
     * _.css
     * _.spec.ts
