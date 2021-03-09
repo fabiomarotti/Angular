@@ -4,7 +4,7 @@ Repositório com estudos realizados sobre o framework Angular.
 * https://angular.io/
 * https://cli.angular.io/
 
-* Requesitos: Node.js -> npm (Node Package Manager)
+> Requesitos: Node.js -> npm (Node Package Manager)
 
 `$ node -v` versão do Node.js 
 
