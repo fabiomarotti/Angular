@@ -1,5 +1,5 @@
 # Angular
-Repositório com estudos realizados sobre o framework Angular.
+Repositório com os estudos realizados sobre o framework Angular.
 
 * https://angular.io/
 * https://cli.angular.io/
