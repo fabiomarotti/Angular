@@ -49,9 +49,9 @@ Repositório com os estudos realizados sobre o framework Angular.
     * _.spec.ts
 - `src/assets` : todos os arquivos externos (img, css, ..)
 - `src/environments` : gerando **build**, variaveis de ambiente, app em produção,..
-- **angular.jason** : todas as configurações do angular
+- **angular.json** : todas as configurações do angular
 - **karma.cong.js** : configurar ara teste unitário
-- **package.jason** : lista todos os pacotes e versões contidos na aplicação.
+- **package.json** : lista todos os pacotes e versões contidos na aplicação.
 - **tsconfig.json** : qual a versão do ECMAScript.
 
 Um componente X é composto por três arquivos:
