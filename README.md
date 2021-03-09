@@ -35,10 +35,10 @@ Repositório com os estudos realizados sobre o framework Angular.
 * `/node_modules` : todos os pacotes necessários para tralhar ou instalar posteriormente <br>
 (pasta a ser contida no arquivo: **gitignore** -> pasta muito grande)
 * `/src` : Pasta Principal
-* * **main.ts**
-* * **polyfills.ts** : traduzida no transpilar
-* * **style.css** : reflete na aplicação toda
-* * **test.ts** : parametros de teste (arquivos de teste)
+    **main.ts**
+    **polyfills.ts** : traduzida no transpilar
+    **style.css** : reflete na aplicação toda
+    **test.ts** : parametros de teste (arquivos de teste)
 * `/src/app` : todos os aquivos/componentes da aplicação
     * **app-routing.module.ts**
     * **app.module.ts**
