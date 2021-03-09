@@ -10,23 +10,23 @@ Repositório com estudos realizados sobre o framework Angular.
 
 `$ npm -v` versão do Gerenciados de Pacotes
 
-`$ ng -v`versão do Angular
+`$ ng -v` versão do Angular
 
 `$ ng help` Ajuda do Angular
 
-* Instalar Angular CLI :: Command-Lin Interface
+### Instalar Angular CLI :: Command-Lin Interface
 
 `$ npm install -g @angular/cli`  (-g: Instalação de modo Global)
 
-* Criar um workspace "pasta do projeto" :: https://angular.io/guide/strict-mode
+### Criar um workspace "pasta do projeto" :: https://angular.io/guide/strict-mode
 
 `$ ng new nome_projeto`  gera um skeleton (esqueto de pastas/conteudo) -> Angular router -> CSS
 
-`$ cd nome_projeto`     // acessar para executar proximos comandos
+`$ cd nome_projeto`    acessar pasta para executar os proximos comandos
 
-* Abrir/iniciar o servidor :: http://localhost:4200/
+### Abrir/iniciar o servidor :: http://localhost:4200/
 
-`$ ng serve --open`   // https://angular.io/cli/serve
+`$ ng serve --open`  ( https://angular.io/cli/serve )
 
 `$ ng serve -o` comando abreviado
 
