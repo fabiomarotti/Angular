@@ -10,14 +10,13 @@ $ node -v
 
 $ npm -v
 
-* Instalar Angular CLI :: Command-Lin Interface
-
-`$ npm install -g @angular/cli`  // -g: Global
-
 $ ng -v
 
 $ ng help
 
+* Instalar Angular CLI :: Command-Lin Interface
+
+`$ npm install -g @angular/cli`  // -g: Global
 
 * Criar um workspace "pasta do projeto" :: https://angular.io/guide/strict-mode
 
