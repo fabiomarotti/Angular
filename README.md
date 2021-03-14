@@ -1,4 +1,4 @@
-# Angular
+# AngularJS
 Repositório com os estudos realizados sobre o framework Angular.
 
 - https://www.youtube.com/c/EscolaFrontend/playlists
